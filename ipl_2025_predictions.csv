@@ -1,0 +1,71 @@
+Match Number,Date,Venue,Team 1,Team 2,Predicted Toss Winner,Predicted Match Winner,Match Winner Probability
+1,2025-03-22 14:00,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,0.599
+2,2025-03-23 10:00,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,0.537
+3,2025-03-23 14:00,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.510
+4,2025-03-24 14:00,Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,0.550
+5,2025-03-25 14:00,Narendra Modi Stadium,Gujarat Titans,Punjab Kings,Punjab Kings,Gujarat Titans,0.501
+6,2025-03-26 14:00,Barsapara Cricket Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,0.545
+7,2025-03-27 14:00,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,0.517
+8,2025-03-28 14:00,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,0.545
+9,2025-03-29 14:00,Narendra Modi Stadium,Gujarat Titans,Mumbai Indians,Mumbai Indians,Gujarat Titans,0.759
+10,2025-03-30 10:00,Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,0.565
+11,2025-03-30 14:00,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.516
+12,2025-03-31 14:00,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.703
+13,2025-04-01 14:00,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick,Lucknow Super Giants,Punjab Kings,Punjab Kings,Lucknow Super Giants,0.603
+14,2025-04-02 14:00,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,Gujarat Titans,0.671
+15,2025-04-03 14:00,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,0.649
+16,2025-04-04 14:00,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,0.749
+17,2025-04-05 10:00,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0.670
+18,2025-04-05 14:00,New PCA Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,0.570
+19,2025-04-06 10:00,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,0.570
+20,2025-04-06 14:00,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,0.763
+21,2025-04-07 14:00,Wankhede Stadium,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,0.550
+22,2025-04-08 14:00,New PCA Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,0.619
+23,2025-04-09 14:00,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Gujarat Titans,0.512
+24,2025-04-10 14:00,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,Royal Challengers Bengaluru,0.530
+25,2025-04-11 14:00,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,0.705
+26,2025-04-12 10:00,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Lucknow Super Giants,0.587
+27,2025-04-12 14:00,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,0.657
+28,2025-04-13 10:00,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,0.525
+29,2025-04-13 14:00,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,Delhi Capitals,0.581
+30,2025-04-14 14:00,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,0.632
+31,2025-04-15 14:00,New PCA Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,0.638
+32,2025-04-16 14:00,Arun Jaitley Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,0.564
+33,2025-04-17 14:00,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0.682
+34,2025-04-18 14:00,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,Punjab Kings,0.528
+35,2025-04-19 10:00,Narendra Modi Stadium,Gujarat Titans,Delhi Capitals,Delhi Capitals,Gujarat Titans,0.585
+36,2025-04-19 14:00,Sawai Mansingh Stadium,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,0.616
+37,2025-04-20 10:00,New PCA Stadium,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Royal Challengers Bengaluru,0.609
+38,2025-04-20 14:00,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.590
+39,2025-04-21 14:00,Eden Gardens,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,0.648
+40,2025-04-22 14:00,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,0.606
+41,2025-04-23 14:00,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,0.603
+42,2025-04-24 14:00,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,0.644
+43,2025-04-25 14:00,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,0.654
+44,2025-04-26 14:00,Eden Gardens,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Kolkata Knight Riders,0.561
+45,2025-04-27 10:00,Wankhede Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,0.561
+46,2025-04-27 14:00,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,0.505
+47,2025-04-28 14:00,Sawai Mansingh Stadium,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Gujarat Titans,0.686
+48,2025-04-29 14:00,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,0.605
+49,2025-04-30 14:00,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Chennai Super Kings,0.546
+50,2025-05-01 14:00,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0.534
+51,2025-05-02 14:00,Narendra Modi Stadium,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,0.554
+52,2025-05-03 14:00,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,0.525
+53,2025-05-04 10:00,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,0.538
+54,2025-05-04 14:00,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,Lucknow Super Giants,0.528
+55,2025-05-05 14:00,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,0.616
+56,2025-05-06 14:00,Wankhede Stadium,Mumbai Indians,Gujarat Titans,Mumbai Indians,Gujarat Titans,0.530
+57,2025-05-07 14:00,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.552
+58,2025-05-08 14:00,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,Punjab Kings,0.510
+59,2025-05-09 14:00,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Lucknow Super Giants,0.548
+60,2025-05-10 14:00,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0.552
+61,2025-05-11 10:00,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,0.540
+62,2025-05-11 14:00,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,Gujarat Titans,Gujarat Titans,0.529
+63,2025-05-12 14:00,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,0.727
+64,2025-05-13 14:00,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,0.525
+65,2025-05-14 14:00,Narendra Modi Stadium,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,0.689
+66,2025-05-15 14:00,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians,0.572
+67,2025-05-16 14:00,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Rajasthan Royals,0.580
+68,2025-05-17 14:00,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,0.611
+69,2025-05-18 10:00,Narendra Modi Stadium,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Gujarat Titans,0.546
+70,2025-05-18 14:00,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,0.570
